@@ -1,0 +1,24 @@
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.Col{
+    padding: 10px;
+ 
+}
+
+.Input{
+    cursor: pointer;
+}
+
+.List{
+    cursor: pointer;
+}
+.ant-spin-container{
+    min-width: 250px !important;
+  
+}
